@@ -1,0 +1,226 @@
+
+body {
+	background-color: #f2f38d;
+	margin: 0px;
+	padding:0px;
+}
+#box{
+  width:1500px;
+  height:500px;
+  margin:0px;
+  padding:0px;
+}
+#box1{
+  background-image:url(images/n1.jpg);
+  background-color:#633;
+  background-repeat:no-repeat;
+  background-position:right center; /*背景右对齐，垂直居中*/
+  width:1347px;
+  height:56px;
+  padding:0px;
+  margin-top:0;
+  margin-left:auto;  /*盒子剧中*/
+  margin-right:auto; /*盒子剧中*/
+}
+.djs{
+	margin:0;
+    margin-left:220px;
+	color:#ffffff;
+}
+
+.dot{
+  width:10px;
+  height:10px;
+  background-color:#f00;
+}
+#box2{
+  background-image:url(images/n2.jpg);
+  height:500px;
+  width:1347px;
+  background-repeat: no-repeat;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  margin-top:0;
+  margin-bottom:0;
+}
+#box3{
+  background-color:#fc6;
+  /*height:1500px;*/
+  width:1347px;
+  margin:0;
+  padding:0;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  padding-bottom:50px;
+}
+#box3_1{
+  height:115px;
+  background-image:url(images/n3-1.jpg);
+  background-repeat: no-repeat;
+  background-position:center center; /*背景水平、垂直居中*/
+  margin:0;
+}
+#box3_2{
+  width:992px;
+  margin-top:10px;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+}
+.sg{
+  width:198.4px;
+  height:150px;
+  padding:0;
+  margin:0;
+  float:left;
+  background-position:0 100%;
+  position:relative;
+  top:0px;
+}
+.sg1{
+  width:198.4px;
+  height:160px;
+  padding:0;
+  margin:0;
+  float:left;
+  position:relative;
+  top:-10px;
+  background-position:0 0;
+}
+#box3_3{
+  width:972px;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+}
+#box_sg{
+  background-color:#900;
+  width:992px;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  padding-bottom:5px;
+}
+#hb{  /**/
+  padding-left:5px;
+  height:360px;
+}
+.hb{
+  width:480px; 
+  height:170px;
+  float:left;
+  background-color:#fcf;
+  margin:5px;
+}
+.title{
+  color:red;
+  font-size:16px;
+  margin-left:20px;
+  margin-top:30px;
+}
+.rz{
+  width:200px;
+  background-color:red;
+  color:#fcc;
+  font-size:10px;
+  padding:5px;
+  border-radius:5px;  /*圆角*/
+}
+.zw{
+  width:300px;
+  font-size:14px;
+  color:#603;
+  margin-left:20px;
+  margin-top:30px;
+}
+
+.jc{
+  width:131px; 
+  height:170px;
+  background-image:url(images/n3-26.jpg);
+  float:right;
+  color:#fcc;
+}
+.jc p{
+  position:relative;
+  left:30px;
+  top:30px;
+  margin:0px;
+  font-size:26px;
+  font-style:bold;
+}
+.jc #p1{
+  margin-bottom:10px;
+  font-size:36px;
+  font-style:bold;
+  top:25px;
+}
+.jc #fh{
+  float:right;
+  left:-30px;
+  top:15px;
+}
+
+
+#box4{
+  background-color:#ffc;
+  width:1347px;
+  margin:0;
+  padding:0;
+  padding-bottom:30px;
+  padding-top:30px;
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+}
+#box4 #tu{
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  background-image:url(images/n4.jpg);
+  width:991px;
+  height:398px;
+}
+
+#box5{
+  background-color:#f00;
+  width:1347px;
+  margin:0;
+  margin-left:auto;   /*盒子剧中,必须放在margin:0后*/
+  margin-right:auto;  /*盒子剧中*/
+  padding:0;
+  padding-bottom:30px;
+  padding-top:30px;
+}
+#box5 #tu{
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  background-image:url(images/n5.jpg);
+  width:991px;
+  height:470px;
+}
+
+#box6{
+  background-color:#f00;
+  width:1347px;
+  margin:0;
+  margin-left:auto;   /*盒子剧中,必须放在margin:0后*/
+  margin-right:auto;  /*盒子剧中*/
+  padding:0;
+}
+#box6 #tu{
+  margin-left:auto;   /*盒子剧中*/
+  margin-right:auto;  /*盒子剧中*/
+  background-image:url(images/n6.jpg);
+  height:188px;
+}
+
+#box7{
+  background-color:#fff;
+  width:1347px;
+  margin:0;
+  margin-left:auto;   /*盒子剧中,必须放在margin:0后*/
+  margin-right:auto;  /*盒子剧中*/
+  padding:0;
+}
+#box7 #tu{
+  background-image:url(images/n7.jpg);
+  background-repeat:no-repeat;/*背景图不重复*/
+  background-position:center center; /*背景水平、垂直居中*/
+  height:134px;
+}
